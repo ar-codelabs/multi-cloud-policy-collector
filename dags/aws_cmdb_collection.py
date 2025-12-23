@@ -6,7 +6,7 @@ import json
 import os
 
 # 계정 및 리전 설정
-ACCOUNTS = ["703172063505"]
+ACCOUNTS = ["123456789123"]
 REGIONS = ["us-east-1", "us-west-2", "us-east-2", "ap-northeast-1"]
 S3_BUCKET = "mwaa-cmdb-bucket"
 
