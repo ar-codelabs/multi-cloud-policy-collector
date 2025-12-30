@@ -176,3 +176,6 @@ s3://mwaa-cmdb-bucket/
 - DAG 실패 시 이메일 알림
 - 데이터 수집 완료 알림
 
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
